@@ -55,7 +55,8 @@ The goal is to support **data-driven decision-making** in employee retention and
 
 ## 📷 Dashboard Preview
 
-/Users/in-yashi/Desktop/Screenshot 2025-09-08 at 6.36.14 PM.png
+
+<img width="713" alt="image" src="https://github.com/Priyambada-singh01/Task-_-Analyst/blob/f4acee708749de7dee8ade209565cc63a31f62e9/Screenshot%202025-09-08%20at%206.45.40%20PM.png"
 
 ---
 
